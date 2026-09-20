@@ -1,0 +1,37 @@
+Owner                                            Facility type                             
+Christian Health Association of Kenya            Dispensaries and clinic-out patient only       5
+                                                 Basic primary health care facility             1
+Community                                        Dispensaries and clinic-out patient only       1
+Company Medical Service                          Dispensaries and clinic-out patient only       1
+                                                 Secondary care hospitals                       1
+Kenya Episcopal Conference-Catholic Secretariat  Basic primary health care facility             1
+                                                 Primary care hospitals                         1
+Laboratory Technician/Technologist               Laboratory                                     1
+Ministry of Health                               Dispensaries and clinic-out patient only      86
+                                                 Basic primary health care facility            17
+                                                 Secondary care hospitals                       5
+                                                 Primary care hospitals                         4
+                                                 Hospitals                                      1
+Non-Governmental Organizations                   VCT                                            2
+                                                 Dispensaries and clinic-out patient only       1
+Other Faith Based                                Dispensaries and clinic-out patient only       9
+                                                 Basic primary health care facility             2
+                                                 Secondary care hospitals                       1
+                                                 Primary care hospitals                         1
+                                                 Comprehensive primary health care facility     1
+Private Enterprise (Institution)                 Dispensaries and clinic-out patient only       6
+                                                 Basic primary health care facility             5
+                                                 Primary care hospitals                         1
+Private Practice - Clinical Officer              Dispensaries and clinic-out patient only       9
+                                                 Basic primary health care facility             1
+Private Practice - General Practitioner          Dispensaries and clinic-out patient only       5
+                                                 Basic primary health care facility             1
+                                                 Comprehensive primary health care facility     1
+Private Practice - Medical Specialist            Dispensaries and clinic-out patient only       2
+                                                 Basic primary health care facility             2
+Private Practice - Nurse / Midwifery             Dispensaries and clinic-out patient only      18
+                                                 Basic primary health care facility             1
+Public Institution                               Dispensaries and clinic-out patient only       6
+                                                 VCT                                            1
+                                                 Basic primary health care facility             1
+Name: count, dtype: int64
